@@ -83,6 +83,7 @@ space_wrap_element = set([
         "article-id",
         "kwd",  # keyword
         # miscellaneous
+        "institution",
         "label",
         "th",
         "td",
